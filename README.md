@@ -11,9 +11,7 @@
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=devilnator&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilnator&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" />
-  </div>
+
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=devilnator&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&hide_border=true" width="100%"/>
 </p>
