@@ -10,7 +10,7 @@
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=hexaorzo&theme=tokyonight&hide_border=true" />
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=hexaorzo&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br>
 </p>
 <br>
 
