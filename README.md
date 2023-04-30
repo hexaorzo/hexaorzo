@@ -11,9 +11,6 @@
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=hexaorzo&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
-
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=hexaorzo&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&hide_border=true" width="100%"/>
 </p>
 <br>
 
